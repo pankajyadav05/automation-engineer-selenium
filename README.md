@@ -34,8 +34,8 @@ a. Successful Login
 b. Invalid Username
 
 - Navigate to the OrangeHRM demo site
-- Enter an invalid username and the correct password**
-- Submit the login form**
+- Enter an invalid username and the **correct password**
+- Submit the **login form**
 - Verify the appropriate error message is displayed
 
 c. Invalid Password
